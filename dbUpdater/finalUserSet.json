@@ -1,0 +1,902 @@
+[
+  {
+    "firstName": "Kacper",
+    "lastName": "Miller",
+    "course": "MAR-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 58.8532585, "lng": 5.7329455 },
+      "country": "Norway",
+      "location": "Sandnes"
+    }
+  },
+  {
+    "firstName": "Steffen",
+    "lastName": "Tollefsen",
+    "course": "JAN-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 58.77882439999999, "lng": 5.623686000000001 },
+      "country": "Norway",
+      "location": "Klepp"
+    }
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Granberg",
+    "course": "JAN-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Janna",
+    "lastName": "Warrener",
+    "course": "JAN-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 62.3433146, "lng": 5.8488429 },
+      "country": "Norway",
+      "location": "Ulsteinvik"
+    }
+  },
+  {
+    "firstName": "Rune",
+    "lastName": "Schutz",
+    "course": "JAN-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.3517131, "lng": 10.8724159 },
+      "country": "Norway",
+      "location": "Råde"
+    }
+  },
+  {
+    "firstName": "Mwamuzi",
+    "lastName": "Romero",
+    "course": "OCT-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Yme ",
+    "lastName": "Hermansen",
+    "course": "OCT-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Borch",
+    "course": "JAN-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Sebastian",
+    "lastName": "Markanovic",
+    "course": "MAR-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 68.695833, "lng": 15.413056 },
+      "country": "Norway",
+      "location": "Vesterålen"
+    }
+  },
+  {
+    "firstName": "Mikkel",
+    "lastName": "Bjørsvik",
+    "course": "OCT-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.1313095, "lng": 10.2165948 },
+      "country": "Norway",
+      "location": "Sandefjord"
+    }
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Tyteland",
+    "course": "OCT-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Lasse",
+    "lastName": "Eliasson",
+    "course": "MAR-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 69.232038, "lng": 17.9808555 },
+      "country": "Norway",
+      "location": "Finnsnes"
+    }
+  },
+  {
+    "firstName": "Jonnel",
+    "lastName": "Jonassen",
+    "course": "AUG-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Hans",
+    "lastName": "Grindheim",
+    "course": "AUG-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.7952153, "lng": 5.507941199999999 },
+      "country": "Norway",
+      "location": "Stord"
+    }
+  },
+  {
+    "firstName": "Stian",
+    "lastName": "Nilsen",
+    "course": "JAN-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.4340914, "lng": 10.6583833 },
+      "country": "Norway",
+      "location": "Moss Viken"
+    }
+  },
+  {
+    "firstName": "Robert ",
+    "lastName": "Hodne-Høgheim",
+    "course": "MAR-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Adrian",
+    "lastName": "Strand",
+    "course": "JAN-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 58.8532585, "lng": 5.7329455 },
+      "country": "Norway",
+      "location": "Sandnes"
+    }
+  },
+  {
+    "firstName": "Torgeir",
+    "lastName": "Parneborg",
+    "course": "OCT-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Stian",
+    "lastName": "Nuh",
+    "course": "MAR-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.7440738, "lng": 10.2044564 },
+      "country": "Norway",
+      "location": "Drammen"
+    }
+  },
+  {
+    "firstName": "Gieno",
+    "lastName": "Kvalvåg",
+    "course": "OCT-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 58.66829019999999, "lng": 5.642534299999999 },
+      "country": "Norway",
+      "location": "Nærbø"
+    }
+  },
+  {
+    "firstName": "Lasse",
+    "lastName": "Halsvik",
+    "course": "OCT-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.88207250000001, "lng": 11.5624678 },
+      "country": "Norway",
+      "location": "Elverum"
+    }
+  },
+  {
+    "firstName": "Gaute",
+    "lastName": "Margol",
+    "course": "OCT-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Magnus",
+    "lastName": "Nilsen",
+    "course": "JAN-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Yassin",
+    "lastName": "Tanaskovic",
+    "course": "JAN-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Nua",
+    "lastName": "Pavilovskyte",
+    "course": "JAN-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Åsmund",
+    "lastName": "Hansen",
+    "course": "JAN-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 63.4305149, "lng": 10.3950528 },
+      "country": "Norway",
+      "location": "Trondheim"
+    }
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Hansen",
+    "course": "MAR-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 66.3137122, "lng": 14.1419749 },
+      "country": "Norway",
+      "location": "Mo i Rana"
+    }
+  },
+  {
+    "firstName": "Joakim",
+    "lastName": "Shadrick",
+    "course": "AUG-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 70.1986934, "lng": 28.1918712 },
+      "country": "Norway",
+      "location": "Tana Finnmark"
+    }
+  },
+  {
+    "firstName": "Tor",
+    "lastName": "Løvdal",
+    "course": "AUG-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 62.7402591, "lng": 7.1808245 },
+      "country": "Norway",
+      "location": "Molde"
+    }
+  },
+  {
+    "firstName": "Amanuel",
+    "lastName": "Thorsen",
+    "course": "AUG-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 65.836924, "lng": 13.193401 },
+      "country": "Norway",
+      "location": "Mosjøen"
+    }
+  },
+  {
+    "firstName": "Valeriia",
+    "lastName": "Moen",
+    "course": "AUG-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.22053689999999, "lng": 10.9347012 },
+      "country": "Norway",
+      "location": "Fredrikstad"
+    }
+  },
+  {
+    "firstName": "Glody",
+    "lastName": "Bray",
+    "course": "MAR-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.1144384, "lng": 10.8495216 },
+      "country": "Norway",
+      "location": "Nittedal"
+    }
+  },
+  {
+    "firstName": "Alina",
+    "lastName": "Langeland",
+    "course": "JAN-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 63.4305149, "lng": 10.3950528 },
+      "country": "Norway",
+      "location": "Trondheim"
+    }
+  },
+  {
+    "firstName": "Justina ",
+    "lastName": "Bielaia",
+    "course": "MAR-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.55378409999999, "lng": 11.3257465 },
+      "country": "Norway",
+      "location": "Mysen"
+    }
+  },
+  {
+    "firstName": "Nicholas",
+    "lastName": "Olsen",
+    "course": "JAN-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 69.6492047, "lng": 18.9553238 },
+      "country": "Norway",
+      "location": "Tromsø"
+    }
+  },
+  {
+    "firstName": "Lukas",
+    "lastName": "Osman",
+    "course": "OCT-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 58.9699756, "lng": 5.7331073 },
+      "country": "Norway",
+      "location": "Stavanger"
+    }
+  },
+  {
+    "firstName": "Anders",
+    "lastName": "Wessels",
+    "course": "JAN-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 63.4305149, "lng": 10.3950528 },
+      "country": "Norway",
+      "location": "Trondheim"
+    }
+  },
+  {
+    "firstName": "Vladimir",
+    "lastName": "Gilje",
+    "course": "OCT-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Roland",
+    "lastName": "Gjerald",
+    "course": "JAN-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Sørensen",
+    "course": "MAR-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 62.3433146, "lng": 5.8488429 },
+      "country": "Norway",
+      "location": "Ulsteinvik"
+    }
+  },
+  {
+    "firstName": "Aleksander",
+    "lastName": "Zanhour",
+    "course": "JAN-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Robert ",
+    "lastName": "Fernandez",
+    "course": "JAN-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.41358100000001, "lng": 5.267986899999999 },
+      "country": "Norway",
+      "location": "Haugesund"
+    }
+  },
+  {
+    "firstName": "Kristian",
+    "lastName": "Kingsrød",
+    "course": "JAN-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.14758189999999, "lng": 11.169393 },
+      "country": "Norway",
+      "location": "Jessheim"
+    }
+  },
+  {
+    "firstName": "Dritan",
+    "lastName": "Haukanes",
+    "course": "OCT-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.750925, "lng": 10.0259452 },
+      "country": "Norway",
+      "location": "Mjøndalen"
+    }
+  },
+  {
+    "firstName": "Kent",
+    "lastName": "Gustafsson",
+    "course": "AUG-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 68.695833, "lng": 15.413056 },
+      "country": "Norway",
+      "location": "Vesterålen"
+    }
+  },
+  {
+    "firstName": "Angelina",
+    "lastName": "Nallbani",
+    "course": "MAR-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.7440738, "lng": 10.2044564 },
+      "country": "Norway",
+      "location": "Drammen"
+    }
+  },
+  {
+    "firstName": "Amund",
+    "lastName": "Andersen",
+    "course": "OCT-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.28407290000001, "lng": 11.1094028 },
+      "country": "Norway",
+      "location": "Sarpsborg"
+    }
+  },
+  {
+    "firstName": "Eivind",
+    "lastName": "Sørensen",
+    "course": "MAR-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Husa",
+    "course": "JAN-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.79503079999999, "lng": 5.1817692 },
+      "country": "Norway",
+      "location": "Bømlo"
+    }
+  },
+  {
+    "firstName": "Rolland",
+    "lastName": "Martinsen",
+    "course": "OCT-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Jan",
+    "lastName": "Christoffersen",
+    "course": "AUG-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 60.1144384, "lng": 10.8495216 },
+      "country": "Norway",
+      "location": "Nittedal"
+    }
+  },
+  {
+    "firstName": "Andreas",
+    "lastName": "Soriano",
+    "course": "AUG-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 69.6492047, "lng": 18.9553238 },
+      "country": "Norway",
+      "location": "Tromsø"
+    }
+  },
+  {
+    "firstName": "Livar",
+    "lastName": "Lundberg",
+    "course": "OCT-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Håvard",
+    "lastName": "Thorsen",
+    "course": "MAR-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.28407290000001, "lng": 11.1094028 },
+      "country": "Norway",
+      "location": "Sarpsborg"
+    }
+  },
+  {
+    "firstName": "Eivind",
+    "lastName": "Yilmaz",
+    "course": "JAN-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 69.6492047, "lng": 18.9553238 },
+      "country": "Norway",
+      "location": "Tromsø"
+    }
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Said",
+    "course": "AUG-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 58.9699756, "lng": 5.7331073 },
+      "country": "Norway",
+      "location": "Stavanger"
+    }
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Bredesen",
+    "course": "AUG-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Abdilillah",
+    "lastName": "Svendsen",
+    "course": "JAN-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 63.4305149, "lng": 10.3950528 },
+      "country": "Norway",
+      "location": "Trondheim"
+    }
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Jørgensen",
+    "course": "AUG-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Trygve",
+    "lastName": "Javeed",
+    "course": "AUG-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Ariel",
+    "lastName": "Mbatu",
+    "course": "AUG-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 63.4305149, "lng": 10.3950528 },
+      "country": "Norway",
+      "location": "Trondheim"
+    }
+  },
+  {
+    "firstName": "Zion",
+    "lastName": "Lamouri",
+    "course": "AUG-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.364988, "lng": 10.3037633 },
+      "country": "Norway",
+      "location": "Tønsberg"
+    }
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Hilde",
+    "course": "AUG-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 60.07395979999999, "lng": 4.905145399999999 },
+      "country": "Norway",
+      "location": "Austevoll"
+    }
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Myr",
+    "course": "MAR-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Koloska",
+    "course": "AUG-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 58.9699756, "lng": 5.7331073 },
+      "country": "Norway",
+      "location": "Stavanger"
+    }
+  },
+  {
+    "firstName": "David",
+    "lastName": "Shifare",
+    "course": "JAN-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Currie",
+    "course": "MAR-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.7440738, "lng": 10.2044564 },
+      "country": "Norway",
+      "location": "Drammen"
+    }
+  },
+  {
+    "firstName": "Lasse",
+    "lastName": "Butay",
+    "course": "OCT-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.1313095, "lng": 10.2165948 },
+      "country": "Norway",
+      "location": "Sandefjord"
+    }
+  },
+  {
+    "firstName": "Katrina",
+    "lastName": "Nallbani",
+    "course": "JAN-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Devrim",
+    "lastName": "Hagness",
+    "course": "OCT-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Christoffer",
+    "lastName": "Jannaouni",
+    "course": "AUG-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 58.80487909999999, "lng": 6.264653399999999 },
+      "country": "Norway",
+      "location": "Gilja"
+    }
+  },
+  {
+    "firstName": "Tor-Henrik",
+    "lastName": "Hagevik",
+    "course": "JAN-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 61.1152713, "lng": 10.4662306 },
+      "country": "Norway",
+      "location": "Lillehammer"
+    }
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Bennett",
+    "course": "OCT-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Marthe",
+    "lastName": "Djupvik",
+    "course": "MAR-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.8126455, "lng": 10.7969934 },
+      "country": "Norway",
+      "location": "Kolbotn"
+    }
+  },
+  {
+    "firstName": "Jeannine",
+    "lastName": "Wood",
+    "course": "JAN-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.41358100000001, "lng": 5.267986899999999 },
+      "country": "Norway",
+      "location": "Haugesund"
+    }
+  },
+  {
+    "firstName": "Andrea",
+    "lastName": "Ekren",
+    "course": "MAR-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Eline",
+    "lastName": "Juvland",
+    "course": "JAN-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Mikael",
+    "lastName": "Berdsbakk",
+    "course": "AUG-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 55.6760968, "lng": 12.5683371 },
+      "country": "Denmark",
+      "location": "København"
+    }
+  },
+  {
+    "firstName": "David",
+    "lastName": "Nordheim",
+    "course": "OCT-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  },
+  {
+    "firstName": "Aleksandra",
+    "lastName": "Rydningen",
+    "course": "JAN-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 58.3421402, "lng": 8.594457000000002 },
+      "country": "Norway",
+      "location": "Grimstad"
+    }
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Josefsen",
+    "course": "AUG-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.5834589, "lng": 11.1629005 },
+      "country": "Norway",
+      "location": "Askim"
+    }
+  },
+  {
+    "firstName": "Camilla",
+    "lastName": "Stavland",
+    "course": "JAN-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 41.3873974, "lng": 2.168568 },
+      "country": "Spain",
+      "location": "Barcelona"
+    }
+  },
+  {
+    "firstName": "Jens",
+    "lastName": "Gudmestad",
+    "course": "MAR-23-PT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Bjarne",
+    "lastName": "Seeland",
+    "course": "JAN-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 63.4305149, "lng": 10.3950528 },
+      "country": "Norway",
+      "location": "Trondheim"
+    }
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Lindberg",
+    "course": "JAN-22-FT",
+    "geolocation": {
+      "coordinates": { "lat": 58.66829019999999, "lng": 5.642534299999999 },
+      "country": "Norway",
+      "location": "Nærbø"
+    }
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Edvardsen",
+    "course": "AUG-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.42554639999999, "lng": 11.3430389 },
+      "country": "Norway",
+      "location": "Rakkestad"
+    }
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Sveen",
+    "course": "AUG-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "country": "Norway",
+      "location": "Bergen"
+    }
+  },
+  {
+    "firstName": "Tamim",
+    "lastName": "Gonzalez",
+    "course": "JAN-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 57.70887, "lng": 11.97456 },
+      "country": "Sweden",
+      "location": "Göteborg"
+    }
+  },
+  {
+    "firstName": "Alec ",
+    "lastName": "Sulejmani",
+    "course": "MAR-22-PT",
+    "geolocation": {
+      "coordinates": { "lat": 59.5834589, "lng": 11.1629005 },
+      "country": "Norway",
+      "location": "Askim"
+    }
+  },
+  {
+    "firstName": "Steffen",
+    "lastName": "Rasmussen",
+    "course": "JAN-23-FT",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "country": "Norway",
+      "location": "Oslo"
+    }
+  }
+]

@@ -140,27 +140,26 @@ const randomUserBuilder = async () => {
     const fullRandomUsers = [];
     for (const user of shuffledData) {
       const geo = await geocodeAddress(user.location);
-      if (!geo) console.log(user);
-      //   const country = geo.address.find((address) =>
-      //     address.types.includes("country")
-      //   );
-      //   console.log(geo);
+      // if (!geo) console.log(user);
+      const countryObj = geo.address.find((address) =>
+        address.types.includes("country")
+      );
+      // console.log(country);
       fullRandomUsers.push({
         firstName: user.firstName,
         lastName: user.lastName,
         course: randomCourse(),
         geolocation: {
           coordinates: geo.coordinates,
-          //   country,
+          country: countryObj.long_name,
           location: user.location,
         },
       });
     }
-    // console.log(fullRandomUsers);
+    fs.writeFileSync("./finalUserSet.json", JSON.stringify(fullRandomUsers));
   } catch (error) {
     console.error(error);
   }
-  //   console.log(fullRandomUsers);
 };
 
 randomUserBuilder();
