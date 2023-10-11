@@ -1,0 +1,861 @@
+[
+  {
+    "location": "Askim",
+    "geolocation": {
+      "coordinates": { "lat": 59.5834589, "lng": 11.1629005 },
+      "address": [
+        {
+          "long_name": "Askim",
+          "short_name": "Askim",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Austevoll",
+    "geolocation": {
+      "coordinates": { "lat": 60.07395979999999, "lng": 4.905145399999999 },
+      "address": [
+        {
+          "long_name": "Austevoll Municipality",
+          "short_name": "Austevoll Municipality",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Vestland",
+          "short_name": "Vestland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Barcelona",
+    "geolocation": {
+      "coordinates": { "lat": 41.3873974, "lng": 2.168568 },
+      "address": [
+        {
+          "long_name": "Barcelona",
+          "short_name": "Barcelona",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Barcelona",
+          "short_name": "B",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Catalonia",
+          "short_name": "CT",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Spain",
+          "short_name": "ES",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Bergen",
+    "geolocation": {
+      "coordinates": { "lat": 60.39126279999999, "lng": 5.3220544 },
+      "address": [
+        {
+          "long_name": "Bergen",
+          "short_name": "Bergen",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Vestland",
+          "short_name": "Vestland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Bømlo",
+    "geolocation": {
+      "coordinates": { "lat": 59.79503079999999, "lng": 5.1817692 },
+      "address": [
+        {
+          "long_name": "Bømlo",
+          "short_name": "Bømlo",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Vestland",
+          "short_name": "Vestland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Drammen",
+    "geolocation": {
+      "coordinates": { "lat": 59.7440738, "lng": 10.2044564 },
+      "address": [
+        {
+          "long_name": "Drammen",
+          "short_name": "Drammen",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Elverum",
+    "geolocation": {
+      "coordinates": { "lat": 60.88207250000001, "lng": 11.5624678 },
+      "address": [
+        {
+          "long_name": "Elverum",
+          "short_name": "Elverum",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Innlandet",
+          "short_name": "Innlandet",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Finnsnes",
+    "geolocation": {
+      "coordinates": { "lat": 69.232038, "lng": 17.9808555 },
+      "address": [
+        {
+          "long_name": "Finnsnes",
+          "short_name": "Finnsnes",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Troms og Finnmark fylke",
+          "short_name": "Troms og Finnmark fylke",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Fredrikstad",
+    "geolocation": {
+      "coordinates": { "lat": 59.22053689999999, "lng": 10.9347012 },
+      "address": [
+        {
+          "long_name": "Fredrikstad",
+          "short_name": "Fredrikstad",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Gilja",
+    "geolocation": {
+      "coordinates": { "lat": 58.80487909999999, "lng": 6.264653399999999 },
+      "address": [
+        {
+          "long_name": "Gilja",
+          "short_name": "Gilja",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Rogaland",
+          "short_name": "Rogaland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Grimstad",
+    "geolocation": {
+      "coordinates": { "lat": 58.3421402, "lng": 8.594457000000002 },
+      "address": [
+        {
+          "long_name": "Grimstad",
+          "short_name": "Grimstad",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Agder",
+          "short_name": "Agder",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Göteborg",
+    "geolocation": {
+      "coordinates": { "lat": 57.70887, "lng": 11.97456 },
+      "address": [
+        {
+          "long_name": "Gothenburg",
+          "short_name": "Gothenburg",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Västra Götaland County",
+          "short_name": "Västra Götaland County",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Sweden",
+          "short_name": "SE",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Haugesund",
+    "geolocation": {
+      "coordinates": { "lat": 59.41358100000001, "lng": 5.267986899999999 },
+      "address": [
+        {
+          "long_name": "Haugesund",
+          "short_name": "Haugesund",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Rogaland",
+          "short_name": "Rogaland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  { "location": "Helgelandskysten" },
+  {
+    "location": "Jessheim",
+    "geolocation": {
+      "coordinates": { "lat": 60.14758189999999, "lng": 11.169393 },
+      "address": [
+        {
+          "long_name": "Jessheim",
+          "short_name": "Jessheim",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Klepp",
+    "geolocation": {
+      "coordinates": { "lat": 58.77882439999999, "lng": 5.623686000000001 },
+      "address": [
+        {
+          "long_name": "Klepp",
+          "short_name": "Klepp",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Rogaland",
+          "short_name": "Rogaland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Kolbotn",
+    "geolocation": {
+      "coordinates": { "lat": 59.8126455, "lng": 10.7969934 },
+      "address": [
+        {
+          "long_name": "Kolbotn",
+          "short_name": "Kolbotn",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "København",
+    "geolocation": {
+      "coordinates": { "lat": 55.6760968, "lng": 12.5683371 },
+      "address": [
+        {
+          "long_name": "Copenhagen",
+          "short_name": "Copenhagen",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Denmark",
+          "short_name": "DK",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Lillehammer",
+    "geolocation": {
+      "coordinates": { "lat": 61.1152713, "lng": 10.4662306 },
+      "address": [
+        {
+          "long_name": "Lillehammer",
+          "short_name": "Lillehammer",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Innlandet",
+          "short_name": "Innlandet",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Mjøndalen",
+    "geolocation": {
+      "coordinates": { "lat": 59.750925, "lng": 10.0259452 },
+      "address": [
+        {
+          "long_name": "Mjøndalen",
+          "short_name": "Mjøndalen",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Mo i Rana",
+    "geolocation": {
+      "coordinates": { "lat": 66.3137122, "lng": 14.1419749 },
+      "address": [
+        {
+          "long_name": "Mo i Rana",
+          "short_name": "Mo i Rana",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Nordland",
+          "short_name": "Nordland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Molde",
+    "geolocation": {
+      "coordinates": { "lat": 62.7402591, "lng": 7.1808245 },
+      "address": [
+        {
+          "long_name": "Molde",
+          "short_name": "Molde",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Møre og Romsdal",
+          "short_name": "Møre og Romsdal",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  { "location": "Moss" },
+  {
+    "location": "Mysen",
+    "geolocation": {
+      "coordinates": { "lat": 59.55378409999999, "lng": 11.3257465 },
+      "address": [
+        {
+          "long_name": "Mysen",
+          "short_name": "Mysen",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Nittedal",
+    "geolocation": {
+      "coordinates": { "lat": 60.1144384, "lng": 10.8495216 },
+      "address": [
+        {
+          "long_name": "Nittedal Municipality",
+          "short_name": "Nittedal Municipality",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Nærbø",
+    "geolocation": {
+      "coordinates": { "lat": 58.66829019999999, "lng": 5.642534299999999 },
+      "address": [
+        {
+          "long_name": "Nærbø",
+          "short_name": "Nærbø",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Rogaland",
+          "short_name": "Rogaland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Oslo",
+    "geolocation": {
+      "coordinates": { "lat": 59.9138688, "lng": 10.7522454 },
+      "address": [
+        {
+          "long_name": "Oslo",
+          "short_name": "Oslo",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Oslo",
+          "short_name": "Oslo",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Rakkestad",
+    "geolocation": {
+      "coordinates": { "lat": 59.42554639999999, "lng": 11.3430389 },
+      "address": [
+        {
+          "long_name": "Rakkestad",
+          "short_name": "Rakkestad",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Råde",
+    "geolocation": {
+      "coordinates": { "lat": 59.3517131, "lng": 10.8724159 },
+      "address": [
+        {
+          "long_name": "Råde Municipality",
+          "short_name": "Råde Municipality",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Sandefjord",
+    "geolocation": {
+      "coordinates": { "lat": 59.1313095, "lng": 10.2165948 },
+      "address": [
+        {
+          "long_name": "Sandefjord",
+          "short_name": "Sandefjord",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Vestfold og Telemark",
+          "short_name": "Vestfold og Telemark",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Sandnes",
+    "geolocation": {
+      "coordinates": { "lat": 58.8532585, "lng": 5.7329455 },
+      "address": [
+        {
+          "long_name": "Sandnes",
+          "short_name": "Sandnes",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Rogaland",
+          "short_name": "Rogaland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Sarpsborg",
+    "geolocation": {
+      "coordinates": { "lat": 59.28407290000001, "lng": 11.1094028 },
+      "address": [
+        {
+          "long_name": "Sarpsborg",
+          "short_name": "Sarpsborg",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Viken",
+          "short_name": "Viken",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Stavanger",
+    "geolocation": {
+      "coordinates": { "lat": 58.9699756, "lng": 5.7331073 },
+      "address": [
+        {
+          "long_name": "Stavanger",
+          "short_name": "Stavanger",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Rogaland",
+          "short_name": "Rogaland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Stord",
+    "geolocation": {
+      "coordinates": { "lat": 59.7952153, "lng": 5.507941199999999 },
+      "address": [
+        {
+          "long_name": "Stord Municipality",
+          "short_name": "Stord Municipality",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Vestland",
+          "short_name": "Vestland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  { "location": "Tana" },
+  {
+    "location": "Tromsø",
+    "geolocation": {
+      "coordinates": { "lat": 69.6492047, "lng": 18.9553238 },
+      "address": [
+        {
+          "long_name": "Tromsø",
+          "short_name": "Tromsø",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Troms og Finnmark fylke",
+          "short_name": "Troms og Finnmark fylke",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Trondheim",
+    "geolocation": {
+      "coordinates": { "lat": 63.4305149, "lng": 10.3950528 },
+      "address": [
+        {
+          "long_name": "Trondheim",
+          "short_name": "Trondheim",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Trøndelag",
+          "short_name": "Trøndelag",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Tønsberg",
+    "geolocation": {
+      "coordinates": { "lat": 59.364988, "lng": 10.3037633 },
+      "address": [
+        {
+          "long_name": "Tønsberg Municipality",
+          "short_name": "Tønsberg Municipality",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "Vestfold og Telemark",
+          "short_name": "Vestfold og Telemark",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Ulsteinvik",
+    "geolocation": {
+      "coordinates": { "lat": 62.3433146, "lng": 5.8488429 },
+      "address": [
+        {
+          "long_name": "Ulsteinvik",
+          "short_name": "Ulsteinvik",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Møre og Romsdal",
+          "short_name": "Møre og Romsdal",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  },
+  {
+    "location": "Vesterålen",
+    "geolocation": {
+      "coordinates": { "lat": 68.695833, "lng": 15.413056 },
+      "address": [
+        {
+          "long_name": "Vesterålen",
+          "short_name": "Vesterålen",
+          "types": ["colloquial_area", "political"]
+        },
+        {
+          "long_name": "Sortland",
+          "short_name": "Sortland",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Nordland",
+          "short_name": "Nordland",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Norway",
+          "short_name": "NO",
+          "types": ["country", "political"]
+        }
+      ]
+    }
+  }
+]

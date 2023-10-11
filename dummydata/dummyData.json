@@ -1,0 +1,86 @@
+[
+  {
+    "firstName": "Paul",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 59.13131, "longitude": 10.216595 },
+    "location": "Sandefjord"
+  },
+  {
+    "firstName": "Robin",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 59.58474, "longitude": 11.16685 },
+    "location": "Askim"
+  },
+  {
+    "firstName": "Isabella",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 60.391262, "longitude": 5.322054 },
+    "location": "Bergan"
+  },
+  {
+    "firstName": "Jeannine",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 59.284073, "longitude": 11.109403 },
+    "location": "Sarpsborg"
+  },
+  {
+    "firstName": "Devram",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 59.744074, "longitude": 10.204456 },
+    "location": "Drammen"
+  },
+  {
+    "firstName": "Rajkumar",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 59.744074, "longitude": 10.204456 },
+    "location": "Asker"
+  },
+  {
+    "firstName": "Frida",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 59.913868, "longitude": 10.752245 },
+    "location": "Oslo"
+  },
+  {
+    "firstName": "Lasse",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 60.391262, "longitude": 5.322054 },
+    "location": "Bergen"
+  },
+  {
+    "firstName": "Kacper",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 59.428299, "longitude": 10.66799 },
+    "location": "Moss"
+  },
+  {
+    "firstName": "Katarina",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 60.391262, "longitude": 5.322054 },
+    "location": "Bergen"
+  },
+  {
+    "firstName": "Anders",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 63.430515, "longitude": 10.395053 },
+    "location": "Trondheim"
+  },
+  {
+    "firstName": "Camill",
+    "course": "AUG-23-FT",
+    "lastName": "",
+    "geolocation": { "latitude": 58.668289, "longitude": 5.6425346 },
+    "location": "Nærbø"
+  }
+]
