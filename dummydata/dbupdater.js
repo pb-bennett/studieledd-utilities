@@ -109,26 +109,26 @@ locationsShuffle.forEach((element, i) => {
   });
 });
 // console.log(randomUsers);
-// const uniqueLocations = new Set(locations);
+const uniqueLocations = new Set(locations);
 
 // console.log(uniqueLocations);
-// const uniqueLocationsArray = Array.from(uniqueLocations).sort();
-// const locationsLookup = uniqueLocationsArray.map((element) => {
-//   return {
-//     location: element,
-//   };
-// });
-// fs.writeFileSync("./locationsLookup.json", JSON.stringify(locationsLookup));
+const uniqueLocationsArray = Array.from(uniqueLocations).sort();
+const locationsLookup = uniqueLocationsArray.map((element) => {
+  return {
+    location: element,
+  };
+});
+fs.writeFileSync("./locationsLookup.json", JSON.stringify(locationsLookup));
 // console.log(locationsLookup);
-// const locations = [];
-// fs.createReadStream("./locations.csv")
-//   .pipe(parse({ delimiter: ",", from_line: 2 }))
-//   .on("data", function (row) {
-//     locations.push(...row);
-//   })
-//   .on("end", () => {
-//     fs.writeFileSync("./locations.json", JSON.stringify(locations));
-//   });
+const locationsNew = [];
+fs.createReadStream("./locations.csv")
+  .pipe(parse({ delimiter: ",", from_line: 2 }))
+  .on("data", function (row) {
+    locations.push(...row);
+  })
+  .on("end", () => {
+    fs.writeFileSync("./locations.json", JSON.stringify(locationsNew));
+  });
 // const firstName = [];
 // fs.createReadStream("./firstName.csv")
 //   .pipe(parse({ delimiter: ",", from_line: 2 }))
@@ -181,33 +181,44 @@ locationsShuffle.forEach((element, i) => {
 // });
 
 const locationsLookupJSON = fs.readFileSync("./locationsLookup.json");
-const locationsLookup = JSON.parse(locationsLookupJSON);
+const locationsLookup2 = JSON.parse(locationsLookupJSON);
 // console.log(locationsLookup);
 
 const geocodeLocations = async () => {
   try {
-    for (const location of locationsLookup) {
+    for (const location of locationsLookup2) {
       console.log("looking up:", location.location);
       location.geolocation = await geocodeAddress(location.location);
       console.log("-----------------");
     }
     fs.writeFileSync(
       "./locationsLookupFinal.json",
-      JSON.stringify(locationsLookup)
+      JSON.stringify(locationsLookup2)
     );
     // console.log(locationsLookup);
   } catch (error) {
     console.log(error);
   }
 };
-
+let usersFinal = [];
 const locationLookup = async () => {
   try {
     const locationLookupJSON = fs.readFileSync("./locationsLookupFinal.json");
     const locationLookup = await JSON.parse(locationLookupJSON);
     for (const user of randomUsers) {
-      user.geolocation = locationLookup.find((location) => {
+      const location = locationLookup.find((location) => {
         return location.location === user.location;
+      });
+      const country = location.geolocation.address.find((address) => {
+        address.types.includes("country");
+      });
+      console.log(country);
+      usersFinal.push({
+        firstName: user.firstName,
+        lastName: user.lastName,
+        geolocation: {
+          location: user.location,
+        },
       });
     }
     // console.log(randomUsers);
@@ -216,5 +227,5 @@ const locationLookup = async () => {
   }
 };
 locationLookup();
-// geocodeLocations();
+geocodeLocations();
 // geocodeAddress("tana, finnmark");
