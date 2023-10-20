@@ -25,34 +25,46 @@ const db = getFirestore(app);
 
 const collectionRef = collection(db, "users");
 
-// dummyUsers.forEach(
-//   (user) =>
-//     (user.geolocation = new GeoPoint(
-//       user.geolocation.latitude,
-//       user.geolocation.longitude
-//     ))
-// );
+const userGeoPointMaker = (user) => {
+  return new GeoPoint(
+    user.geolocation.coordinates.lat,
+    user.geolocation.coordinates.lng
+  );
+};
 
-// const batch = writeBatch(db);
-// dummyUsers.forEach((user) => {
-//   const docRef = doc(collectionRef);
-//   batch.set(docRef, user);
+const updateDB = async () => {
+  try {
+    const finalUserSetJSON = fs.readFileSync("./finalUserSet.json");
+    const finalUserSet = JSON.parse(finalUserSetJSON);
+    finalUserSet.forEach((user) => {
+      user.geolocation.coordinates = userGeoPointMaker(user);
+    });
+    // console.log(finalUserSet);
+    const batch = writeBatch(db);
+    finalUserSet.forEach((user) => {
+      const docRef = doc(collectionRef);
+      batch.set(docRef, user);
+    });
+    batch
+      .commit()
+      .then(() => {
+        console.log("upload success");
+      })
+      .catch((error) => {
+        console.error(error);
+      });
+  } catch (error) {
+    console.error(error);
+  }
+};
+updateDB();
+
+// getDocs(collectionRef).then((snapshot) => {
+//   let users = [];
+//   snapshot.docs.forEach((doc) => users.push({ ...doc.data(), id: doc.id }));
+//   console.log(users);
+//   //   users.forEach((user) => console.log(user.geolocation._lat));
+//   // const usersJson = JSON.stringify(users);
+//   // fs.writeFile("dummyData.json", usersJson, "utf-8", () => console.log("written"));
+//   // console.log(usersJson);
 // });
-// batch
-//   .commit()
-//   .then(() => {
-//     console.log("upload success");
-//   })
-//   .catch((error) => {
-//     console.error(error);
-//   });
-
-getDocs(collectionRef).then((snapshot) => {
-  let users = [];
-  snapshot.docs.forEach((doc) => users.push({ ...doc.data(), id: doc.id }));
-  console.log(users);
-  //   users.forEach((user) => console.log(user.geolocation._lat));
-  // const usersJson = JSON.stringify(users);
-  // fs.writeFile("dummyData.json", usersJson, "utf-8", () => console.log("written"));
-  // console.log(usersJson);
-});
